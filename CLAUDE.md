@@ -52,3 +52,4 @@ needs a real yes:
 - Commit messages are a single plain-language summary line in imperative
   mood (e.g. "Add project description to README"), no prefixes like
   "feat:" or "fix:".
+- Do not add Co-Authored-By or any other trailer to commit messages.
